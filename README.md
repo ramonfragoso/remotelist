@@ -165,14 +165,16 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
 | ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. | 2,000,000 |💻|
 
+&nbsp;
+
 
 ### :cloud: Deploy
 Want to deploy your application for free?
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [Github Pages](https://pages.github.com/) | Your application. In the cloud. Within seconds. | 64 |🌟|
-| ❇️ | [Heroku](https://www.heroku.com/) | Freelance jobs in all sectors. | 5,485 |🌟|
+| ❇️ | [Github Pages](https://pages.github.com/) | Websites for you and your projects. | 64 |🌟|
+| ❇️ | [Heroku](https://www.heroku.com/) | Heroku to deploy, manage, and scale apps. | 5,485 |🌟|
 | ❇️ | [Surge](https://surge.sh/) | Static web publishing for Front-End Developers | 23,067 |🌟|
 | ❇️ | [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects. | - |🌟|
 | ❇️ | [We Deploy](https://wedeploy.com/) | Your application. In the cloud. Within seconds. | 2,000,000 |🌟|
